@@ -1,0 +1,8 @@
+@Stock-Market_HostAddress = https://localhost:7000
+@Stock_Market_HostAddress = http://localhost:5069
+
+
+
+GET {{Stock-Market_HostAddress}}/stockmarket/GetSymbolProfile
+
+###
