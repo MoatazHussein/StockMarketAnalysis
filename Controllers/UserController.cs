@@ -14,7 +14,6 @@ namespace StockMarket.Controllers
     {
         private readonly DataContext _context;
         private readonly IMailService _mailService;
-
         private readonly AuthService _authService;
         private readonly ILogger _logger;
 
